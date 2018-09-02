@@ -1,0 +1,7 @@
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\bin\WcfServiceWithOkta.dll.config
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\bin\WcfServiceWithOkta.dll
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\bin\WcfServiceWithOkta.pdb
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\obj\Debug\WcfServiceWithOkta.csprojResolveAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\obj\Debug\WcfServiceWithOkta.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\obj\Debug\WcfServiceWithOkta.dll
+D:\AspNetCore_VisualStudio2017\WcfServiceWithOkta\WcfServiceWithOkta\obj\Debug\WcfServiceWithOkta.pdb
